@@ -1,0 +1,28 @@
+.title-fs {
+  font-size: 3.5em;
+  color: #4b57da;
+  font-family: 'Gloria Hallelujah', cursive;
+  text-decoration: underline;
+}
+
+.nav-menu {
+  color: #4b57da;
+  background-color: rgb(241, 214, 172);
+  margin-top: -40px;
+  font-size: 25px;
+}
+
+.pr-16px {
+  padding-right: 16px;
+}
+img {
+  width: 600px;
+  height: 300px;
+  padding-top: 20px;
+}
+
+li {
+  color: #4b57da;
+  font-size: 20px;
+  margin-top: 100px;
+}
