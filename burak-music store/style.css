@@ -1,0 +1,19 @@
+body {
+  background-color: #e9ecef;
+}
+
+h2,
+h3 {
+  color: #c0ca33;
+}
+img {
+  width: 200px;
+  height: 300px;
+}
+
+.h-home {
+  color: #ec407a;
+}
+.h-other {
+  color: blueviolet;
+}
